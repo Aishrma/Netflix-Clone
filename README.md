@@ -12,6 +12,8 @@ This is a website which is clone of Netflix. This is made using HTML and CSS.
 - **HTML5:** For the structure and content of the website.
 - **CSS3:** For styling and ensuring a visually appealing, responsive design.
 
+## Future Enhancements
+
 - **User Authentication:** Adding sign-up and login functionality for personalized user experiences.
 - **Streaming Capabilities:** Integrating video streaming features to watch content directly on the platform.
 - **Recommendations:** Implementing personalized recommendations based on user viewing history.
